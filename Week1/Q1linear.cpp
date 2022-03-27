@@ -11,7 +11,7 @@ cin>>n;
 int arr[n];
 for(int i=0;i<n;i++)
 cin>>arr[i];
-int no;#
+int no;
 cin>>no;
 int c=0,flag=0;
 for(int i=0;i<n;i++)
