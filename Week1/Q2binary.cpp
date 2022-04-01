@@ -31,7 +31,7 @@ int main()
         for(int i=0;i<size;i++) cin>>arr[i];
         int key;
         cin>>key;
-       binary_search(arr,0,size,key);
+       binary_search(arr,0,size-1,key);
     }
 
 
