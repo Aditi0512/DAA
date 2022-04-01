@@ -17,7 +17,7 @@ void binary_search(int arr[],int l,int h,int key)
         else l=mid+1;
     }
     if(flag)cout<<"Present "<<comp<<endl;
-        else cout<<"Not Present"<<endl;
+        else cout<<"Not Present"<<comp<<endl;
 }
 int main()
 {
